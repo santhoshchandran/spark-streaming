@@ -2,5 +2,8 @@
 .classpath
 .project
 .metadata
+*.class
 */.settings/*
 */bin/*
+*/.worksheet/*
+*.class
