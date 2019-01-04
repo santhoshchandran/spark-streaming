@@ -2,7 +2,7 @@ object LearningScala2 {
   // Flow control
   
   // If / else syntax
-  if (1 > 3) println("Impossible!") else println("The world makes sense.")
+  if (1 > 3) println("Impossible!!") else println("The world makes sense.")
                                                   //> The world makes sense.
   
   if (1 > 3) {
